@@ -105,3 +105,9 @@ fun-calculator/
 
 This project is open-source under the MIT License.
 
+<img width="983" height="984" alt="screencapture-localhost-3000-client-html-2025-08-31-16_08_16" src="https://github.com/user-attachments/assets/c9e88a79-8fb5-4ff7-8219-2a25d8b451d5" />
+<img width="983" height="944" alt="screencapture-localhost-3000-admin-html-2025-08-31-16_10_33" src="https://github.com/user-attachments/assets/f9c80d94-b721-4ce3-81c0-024d250059d5" />
+
+
+
+
