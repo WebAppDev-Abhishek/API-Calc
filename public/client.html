@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fun Calculator</title>
+  <link rel="stylesheet" href="client.css">
+</head>
+<body>
+  <nav><h1>🎲 Fun Compatibility Calculator</h1></nav>
+  <div class="container">
+    <h2>Enter Two Names</h2>
+    <input id="name1" type="text" placeholder="Enter first name">
+    <input id="name2" type="text" placeholder="Enter second name">
+    <button id="calculateBtn">Calculate</button>
+
+    <div id="calculatingText" style="display:none;">Calculating...</div>
+    <div id="loadingBar"></div>
+    <h2 id="result" style="display:none;"></h2>
+
+    <div id="history">
+      <h3>Recent Results</h3>
+      <ul id="historyList"></ul>
+    </div>
+  </div>
+
+  <script src="client.js"></script>
+</body>
+</html>
